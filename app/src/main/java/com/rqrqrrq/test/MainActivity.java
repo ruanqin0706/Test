@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("Main","LLLLLLLLLA");
 
-        Log.d("嘻嘻","I will give you some color to see");
+        Log.d("嘻嘻","I will give you some color to see see");
     }
 }
