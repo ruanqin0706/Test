@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("Main","LLLLLLLLLA");
 
         Log.d("嘻嘻","what are you doing know");
+
+        Log.d(null,"我在尝试冲突，我是test1, 我要被merge合并");
     }
 }
