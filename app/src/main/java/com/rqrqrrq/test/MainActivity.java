@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("嘻嘻","I will give you some color to see see");
 
-        Log.d(null,"大家好，我是master，我要跟test进行冲突，演示合并");
+        Log.d(null,"我在主分支是  我学会合并冲突了  哈哈哈哈");
     }
 }
